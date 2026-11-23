@@ -1,0 +1,21 @@
+@import './PageTsConfig/BackendLayouts/'
+
+RTE {
+    default {
+        preset = kwm26
+    }
+}
+
+TCEFORM {
+    pages {
+
+    }
+    tt_content {
+
+    }
+}
+
+TCEMAIN {
+
+}
+
